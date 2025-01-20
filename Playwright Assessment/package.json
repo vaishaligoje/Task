@@ -1,0 +1,26 @@
+{
+  "name": "playwright-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "booking": "npx playwright test booking.spec.js",
+    "target": "npx playwright test target.spec.js",
+    "testim": "npx playwright test testim.spec.js",
+    "youtube": "npx playwright test youtube.spec.js",
+    "allure:open": "allure open",
+    "allure:generate": " allure generate ./allure-results -o ./allure-report --clean",
+    "allure-source": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5",
+    "allure-playwright": "^3.0.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

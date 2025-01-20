@@ -1,0 +1,37 @@
+Headers component visible count :- 5
+Company component visible count :- 4
+count of Header components :- 5
+count of Company components :- 4
+count of Link components :- 5
+count of Icons components :- 7
+count of Footer Text components :- 5
+count of resulted hotels :- 2
+Resulted Text :- 2
+count of resulted hotels :- 3
+Resulted Text :- 3
+Discount price on product :- $89.99
+Discount price on product :- $89.99
+discount on product :- save $20.00 (18% off)
+offer price :- 89.99
+Discount on product :- 18
+saved money on product :- ${savedMoney}
+Expected discount on product :- 18.183471224656788
+count of resulted videos :- 16
+count of resulted videos :- 18
+count of Header components :- 5
+count of Company components :- 4
+count of Link components :- 5
+count of Icons components :- 7
+count of Footer Text components :- 5
+Discount price on product :- $89.99
+discount on product :- save $20.00 (18% off)
+offer price :- 89.99
+Discount on product :- 18
+saved money on product :- ${savedMoney}
+Expected discount on product :- 18.183471224656788
+count of resulted hotels :- 2
+Resulted Text :- 2
+count of resulted hotels :- 2
+Resulted Text :- 2
+count of resulted hotels :- 3
+Resulted Text :- 3

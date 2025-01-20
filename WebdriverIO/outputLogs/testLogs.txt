@@ -1,0 +1,1 @@
+Number of visible footer text components :- 5

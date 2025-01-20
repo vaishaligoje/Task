@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25848","youtube test cases","chromium","Mon Jan 20 12:12:21 IST 2025","passed","Mon Jan 20 12:12:47 IST 2025","","youTube.spec.js","",""
+"","12589","Target test cases","chromium","Mon Jan 20 12:13:47 IST 2025","passed","Mon Jan 20 12:13:59 IST 2025","","target.spec.js","",""
+"","31248","booking test cases","chromium","Mon Jan 20 12:15:21 IST 2025","broken","Mon Jan 20 12:15:52 IST 2025","","booking.spec.js","",""
+"","7603","Navigate to the Company Section","chromium","Mon Jan 20 12:13:14 IST 2025","passed","Mon Jan 20 12:13:22 IST 2025","Testim UI testcases","testim.spec.js","",""
