@@ -35,3 +35,6 @@ count of resulted hotels :- 2
 Resulted Text :- 2
 count of resulted hotels :- 3
 Resulted Text :- 3
+Resulted Text :- 2
+count of resulted hotels :- 3
+Resulted Text :- 3
